@@ -1,2 +1,1 @@
-hello world, did 
-my first update in github
+hello world, welcome to my fisrt update
