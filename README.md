@@ -1,2 +1,2 @@
 hello world, did 
-my first update inside github
+my first update ins github
